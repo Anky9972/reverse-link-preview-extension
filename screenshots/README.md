@@ -4,10 +4,10 @@ This folder contains demonstration images of the Reverse Link Preview extension 
 
 ## Files
 
-- `Screenshot 2025-10-04 171326.png`
-- `Screenshot 2025-10-04 171504.png`
-- `setting-panel.png` 
-- `options-page.png` 
+- `Screenshot 2025-10-04 171326.png` - 9to5Google article preview showing tech news modal
+- `Screenshot 2025-10-04 171504.png` - Medium article preview with LLM content 
+- `setting-panel.png` - Quick settings panel overlay on webpage
+- `options-page.png` - Full extension options page with all settings 
 
 ## Usage in Documentation
 

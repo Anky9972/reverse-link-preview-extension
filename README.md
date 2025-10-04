@@ -33,22 +33,20 @@
 
 ## 📸 Screenshots
 
-> **Note**: Replace the placeholder files in `/screenshots/` with actual images from your extension.
-
 ### Link Previews in Action
 
 <div align="center">
 
 **Tech News Preview (9to5Google)**
-![Tech Article Preview](screenshots/preview-modal-9to5google.png)
+![Tech Article Preview](screenshots/Screenshot%202025-10-04%20171326.png)
 *Hover over tech news links to see rich article previews with metadata*
 
 **Medium Article Preview** 
-![Medium Article Preview](screenshots/preview-modal-medium-llm.png)
+![Medium Article Preview](screenshots/Screenshot%202025-10-04%20171504.png)
 *Clean layout for Medium articles with reading time and content summary*
 
 **Settings Panel**
-![Settings Panel](screenshots/settings-panel-medium.png)
+![Settings Panel](screenshots/setting-panel.png)
 *Quick access settings panel for instant customization*
 
 **Full Options Page**
