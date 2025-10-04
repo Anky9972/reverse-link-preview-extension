@@ -1,8 +1,19 @@
 {
   "name": "reverse-link-preview",
-  "private": true,
   "version": "1.0.0",
+  "description": "Smart link preview Chrome extension with intelligent content extraction",
   "type": "module",
+  "keywords": ["chrome-extension", "link-preview", "content-extraction", "hover-preview", "react"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/reverse-link-preview.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/reverse-link-preview/issues"
+  },
+  "homepage": "https://github.com/yourusername/reverse-link-preview#readme",
   "scripts": {
     "dev": "vite",
     "build": "npm run build:main && npm run build:content && npm run copy:assets",
