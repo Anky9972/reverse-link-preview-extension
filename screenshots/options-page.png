@@ -1,0 +1,19 @@
+# This is a placeholder for the full options page screenshot
+# The actual image shows the comprehensive settings page that opens in a new tab
+# with all customization options organized in tabs
+
+Image Description:
+- Page: Full extension options page (chrome-extension://*/src/pages/options/index.html)
+- Tab: "General" settings active
+- Shows: Preview delay slider (0ms instant to 1000ms), size radio buttons, feature toggles
+- Features visible: 
+  * Preview delay with visual slider (currently set to 0ms)
+  * Preview size options (Small/Medium/Large) with Medium selected
+  * "Show reading time for articles" checkbox (checked)
+  * "Enable social features" checkbox (unchecked) 
+  * Maximum preview queue size slider (set to 10)
+- Footer: "Reverse Link Preview Extension - Version 1.0.0"
+
+Dimensions: Full page screenshot (1400x900 or similar)
+Format: PNG recommended for crisp UI elements
+Context: Complete options interface for advanced customization

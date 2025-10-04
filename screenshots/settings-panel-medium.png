@@ -1,0 +1,13 @@
+# This is a placeholder for the settings panel screenshot
+# The actual image shows the extension's quick settings panel that appears 
+# when users interact with the extension while browsing
+
+Image Description:
+- Location: Overlay panel on Medium.com
+- Shows: "Link Preview" toggle, site-specific settings, preview delay slider, size options
+- Demonstrates: Quick access customization without leaving the current page
+- Features visible: Fast/Medium/Large size options, Light/Dark/System theme toggle, Advanced Settings button
+
+Dimensions: Smaller panel screenshot (400x600 or similar)
+Format: PNG recommended for crisp UI elements
+Context: In-page settings panel for instant customization

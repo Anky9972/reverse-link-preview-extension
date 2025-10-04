@@ -401,7 +401,21 @@ Brief description of changes
 How was this tested?
 
 ## Screenshots
-If applicable, add screenshots
+If applicable, add screenshots demonstrating your changes.
+
+**For UI changes, include screenshots showing:**
+- Before and after comparison
+- Different themes (light/dark) if applicable  
+- Various preview sizes (small/medium/large)
+- Different content types (articles, videos, etc.)
+
+**Screenshot Guidelines:**
+- Use PNG format for crisp UI elements
+- Show realistic usage on popular websites  
+- Include extension branding/modal in frame
+- Ensure readable text and clear interface elements
+
+**Reference**: See `/screenshots/` folder for examples of good documentation images.
 
 ## Checklist
 - [ ] Code builds successfully

@@ -31,6 +31,32 @@
 - 🛡️ **Privacy First** - All processing happens locally, no data collection
 - 🎛️ **Fully Customizable** - Tailor every aspect to your preferences
 
+## 📸 Screenshots
+
+> **Note**: Replace the placeholder files in `/screenshots/` with actual images from your extension.
+
+### Link Previews in Action
+
+<div align="center">
+
+**Tech News Preview (9to5Google)**
+![Tech Article Preview](screenshots/preview-modal-9to5google.png)
+*Hover over tech news links to see rich article previews with metadata*
+
+**Medium Article Preview** 
+![Medium Article Preview](screenshots/preview-modal-medium-llm.png)
+*Clean layout for Medium articles with reading time and content summary*
+
+**Settings Panel**
+![Settings Panel](screenshots/settings-panel-medium.png)
+*Quick access settings panel for instant customization*
+
+**Full Options Page**
+![Options Page](screenshots/options-page.png)
+*Comprehensive settings with preview delay, size, and advanced options*
+
+</div>
+
 ---
 
 ## 🚀 Features
@@ -38,7 +64,7 @@
 ### Core Functionality
 
 #### 🔍 Smart Content Detection
-- **Articles** - News, blogs, and editorial content with clean typography
+- **Articles** - News, blogs, and editorial content with clean typography *(see 9to5Google & Medium examples above)*
 - **Videos** - YouTube, Vimeo with thumbnails, duration, and channel info
 - **Products** - E-commerce items with pricing, ratings, and availability
 - **Social Media** - Twitter/X, Facebook posts with engagement metrics
@@ -56,12 +82,13 @@
 
 ### User Interface
 
-#### 🎨 Customization Studio
-- **Themes** - Light, Dark, and Auto modes
-- **Colors** - Custom background, text, and accent colors
+#### 🎨 Customization Studio *(shown in screenshots above)*
+- **Themes** - Light, Dark, and System modes
+- **Preview Delay** - 0ms (instant) to 1000ms with visual slider
 - **Sizing** - Small, Medium, Large preview dimensions
-- **Opacity** - Adjust modal transparency
-- **Animations** - Enable/disable transitions and effects
+- **Reading Time** - Show/hide estimated reading time for articles
+- **Social Features** - Toggle comments and ratings display
+- **Queue Management** - Control maximum preview queue size
 
 #### ⚙️ Control Panel
 - **Quick Actions** - Bookmark, Share, Copy, Open in new tab
@@ -110,6 +137,8 @@ npm run build
 3. Click **Load unpacked**
 4. Select the `dist` folder from the project directory
 5. The extension icon should appear in your toolbar!
+6. **Test it**: Visit any news site and hover over article links to see previews like those shown in our screenshots
+7. **Customize**: Right-click the extension icon → Options to access the settings page shown above
 
 ---
 
@@ -118,9 +147,11 @@ npm run build
 ### Basic Usage
 
 1. **Hover** over any link on any webpage
-2. **Wait** 300ms (customizable delay)
-3. **Preview** appears with rich content
+2. **Wait** for your configured delay (0ms-1000ms, see *Options Page* screenshot)
+3. **Preview** appears with rich content (see *Preview Examples* above)
 4. **Move away** to close, or click the X button
+
+> 💡 **Tip**: Check out the screenshots above to see the extension in action on popular sites like 9to5Google and Medium!
 
 ### Keyboard Shortcuts
 

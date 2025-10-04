@@ -88,3 +88,13 @@ debug/
 # Local development
 .local/
 local/
+
+# Screenshots - Keep these for documentation
+# but exclude temporary/edit files
+screenshots/*.tmp
+screenshots/*.psd
+screenshots/*.sketch
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.gif
+!screenshots/README.md
